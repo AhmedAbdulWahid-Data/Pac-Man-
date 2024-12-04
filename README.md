@@ -1,6 +1,7 @@
 # 🟡 Pac-Man Game 🎮 | Python + Pygame
 
-Welcome to **Pac-Man**, the classic arcade game reimagined with Python and Pygame! Dive into the maze, munch on some dots, dodge the ghosts, and show off your skills. Ready to relive your childhood? Let's get started! 😎
+Welcome to **Pac-Man** , the classic arcade game reimagined with Python and Pygame! Dive into the maze, munch on some dots, dodge the ghosts, and show off your skills. Ready to relive your childhood? Let's get started! 😎
+
 ---
 
 
